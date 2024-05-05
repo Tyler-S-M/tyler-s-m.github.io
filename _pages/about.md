@@ -7,4 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a first year student in the McKelvey School of Engineering at Washington University in St. Louis advised by Chris Gill. Prior to my time in the program
+here, I received my bachelor's and master's degrees in computer science from the University of Missouri St. Louis. My research interests are in heterogeneous computing with a particular interest in GPU development, and parallel computing within real time constraints.
+
+I am an avid Linux and CUDA enthusiast, with a significant amount of my free time going towards learning kernel development. Currently I am begining a 
+deep dive into the relationship between GPUs and elastic scheduling with and without fixed and set priority models.
+
+Publication News:
+==========================
+
+Last Updated: May 5 2024
