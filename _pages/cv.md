@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Washington University in St. Louis, 2029 (expected)
+* M.S. in Computer Science, University of Missouri St. Louis, 2023
+* B.S. in Computer Science, University of Missouri St. Louis, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Assistant
+  * Washington University in St. Louis
+  * Supervisor: Chris Gill
 
 * Summer 2015: Research Assistant
   * Github University
