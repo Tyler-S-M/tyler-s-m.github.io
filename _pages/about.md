@@ -13,7 +13,5 @@ here, I received my bachelor's and master's degrees in computer science from the
 I am an avid Linux and CUDA enthusiast, with a significant amount of my free time going towards learning kernel development. Currently I am begining a 
 deep dive into the relationship between GPUs and elastic scheduling within both fixed and mixed criticality models.
 
-Publication News:
-==========================
 
 Last Updated: May 5 2024
