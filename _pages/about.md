@@ -11,4 +11,4 @@ I am a first year Ph.D. student in the McKelvey School of Engineering at Washing
 
 I am an avid Linux and CUDA enthusiast. Currently, a significant amount of my research is related going towards how the internal schedulers within various CUDA capable devices behave and can be manipulated. I am also beginning a deep dive into the relationship between GPUs and elastic scheduling within both fixed and mixed criticality models.
 
-[Download CV]([http://github.com](https://tyler-s-m.github.io/files/CV.pdf)).
+[Download CV](https://tyler-s-m.github.io/files/CV.pdf "CV").
